@@ -17,6 +17,7 @@ Throughout this fact sheet, we are going to discuss what is linear regression an
 
 ## <a class=anchor id=what_is_LR></a> What is linear regression?
 
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{n_1}Y_{i,1}\sim\text{Poisson}(n_1\times\theta_{1}).">
 
 Linear regression is one of the simplest and most intuitive approaches for statistical analysis and supervised learning. It is used to find or explain the relationship between a set of inputs (also known as explanatory variables, covariates or features), and a real-valued output (also known as the response variable). Note that in linear regression, the response must be a continuous variable, but the explanatory variables can be continuous, discrete or categorical. 
 
