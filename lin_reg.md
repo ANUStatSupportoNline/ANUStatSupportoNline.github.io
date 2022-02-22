@@ -35,7 +35,7 @@ It is common to hear, especially among non-statisticians, statements like: "we a
 
 Linear regression is a **model**, and this model is a function (also called a linear predictor) that maps from a set of covariates to a real-valued response. Such function is completely determined by a set of unknown learnable parameters. More formally, the model is 
 
-<img src="https://render.githubusercontent.com/render/math?math=y=f(\mathbf{x})=\mathbf{x}'\boldsymbol{\beta}">+<img src="https://render.githubusercontent.com/render/math?math=\varepsilon,">
+<img src="https://render.githubusercontent.com/render/math?math=y=f(\mathbf{x})=\mathbf{x}'\boldsymbol{\beta}"> + <img src="https://render.githubusercontent.com/render/math?math=\varepsilon,">
 
 where <img src="https://render.githubusercontent.com/render/math?math=y"> is the response variable, the vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> is our set of covariates, the vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> is our set of learnable parameters, and <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> is an error term assumed to be normally distributed with mean zero and unknown variance <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">.
 
