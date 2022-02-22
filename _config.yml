@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
 description: ANU Statistical Support Network
-markdown: kramdown
-kramdown:
-    math_engine: mathjax
+
