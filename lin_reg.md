@@ -17,8 +17,6 @@ Throughout this fact sheet, we are going to discuss what is linear regression an
 
 ## <a class=anchor id=what_is_LR></a> What is linear regression?
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{n_1}Y_{i,1}\sim\text{Poisson}(n_1\times\theta_{1}).">
-
 Linear regression is one of the simplest and most intuitive approaches for statistical analysis and supervised learning. It is used to find or explain the relationship between a set of inputs (also known as explanatory variables, covariates or features), and a real-valued output (also known as the response variable). Note that in linear regression, the response must be a continuous variable, but the explanatory variables can be continuous, discrete or categorical. 
 
 With linear regression we can determine how strong (or weak) is the relationship between the inputs and the output, and whether such relationship is linear. Additionally, we can use linear regression to predict what would be the value of the output given some inputs. In other words, we can use linear regression to predict the response variable. As we have seen, liner regression has many applications and it is fairly simple to understand and to implement in modern statistical packages. Therefore, it is not surprising that linear regression is widely used in almost all domains.
@@ -37,9 +35,9 @@ It is common to hear, especially among non-statisticians, statements like: "we a
 
 Linear regression is a **model**, and this model is a function (also called a linear predictor) that maps from a set of covariates to a real-valued response. Such function is completely determined by a set of unknown learnable parameters. More formally, the model is 
 
-$$ y = f(\mathbf{x}) = \mathbf{x}'\boldsymbol{\beta} + \varepsilon,$$
+<img src="https://render.githubusercontent.com/render/math?math=y=f(\mathbf{x})=\mathbf{x}'\boldsymbol{\beta}+\varepsilon,">
 
-where $y\in\mathbb{R}$ is the response variable, the vector $\mathbf{x}$ is our set of covariates, the vector $\boldsymbol{\beta}$ is our set of learnable parameters, and $\varepsilon$ is an error term assumed to be normally distributed with mean zero and unknown variance $\sigma^2$.
+where <img src="https://render.githubusercontent.com/render/math?math=y"> is the response variable, the vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> is our set of covariates, the vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> is our set of learnable parameters, and <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> is an error term assumed to be normally distributed with mean zero and unknown variance <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">.
 
 On the other hand, the **estimation approach** is the algorithm used to learn the unknown parameters, namely $\boldsymbol{\beta}$ and $\sigma^2$. Note that the model and the estimation approach are two different things. Popular estimation approaches to learn the unknown parameters in a linear regression model are: Ordinary least squares (OLS), Maximum likelihood estimation (MLE), Penalized least squares including ridge regression and the Lasso, among other learning algorithms.   
 
