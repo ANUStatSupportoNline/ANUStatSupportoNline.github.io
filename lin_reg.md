@@ -97,6 +97,6 @@ In order to implement simple and multiple linear regression, and to perform mode
 * Wackerly, D.D., Mendenhall, W.III., Scheaffer, R.L., (2007). *Mathematical Statistics with Applications*. Thomson Learning, Inc.
 
 
-![Tux, the Linux mascot](https://github.com/ANUStatSupportoNline/ANUStatSupportoNline.github.io/blob/main/new%20bio%20pic%203-min.jpg)
+![im1](https://github.com/ANUStatSupportoNline/ANUStatSupportoNline.github.io/blob/main/new%20bio%20pic%203-min.jpg)
 
 
