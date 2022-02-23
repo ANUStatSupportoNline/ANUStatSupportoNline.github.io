@@ -1,4 +1,4 @@
-## Logistic regression
+# Logistic regression
 
 Throughout this fact sheet, we are going to present useful resources on logistic regression.
 
@@ -19,7 +19,7 @@ Throughout this fact sheet, we are going to present useful resources on logistic
 
 As discussed in previous fact sheets, the linear regression model assumes that the response is real-valued and the error term is a normally distributed random variable. 
 
-However, in many cases we would like to model a non-real-valued, but binary, response variable based on a set of explanatory variables. For example, our response variable might be: malignant or benign tumour; fraudulent or not fraudulent; or accepted vs rejected, among others. In such cases, we can easily encode our qualitative responses using an indicator function. That means that conditional on the set of covariates, the responses would be Bernoulli distributed random variables. Therefore, it makes sense to model the probability that the response equals one given all the covariates, i.e., 
+However, in many cases we would like to model a non-real-valued, but binary, response variable based on a set of explanatory variables. For example, our response variable might be: malignant or benign tumor; fraudulent or not fraudulent; or accepted vs rejected, among others. In such cases, we can easily encode our qualitative responses using an indicator function. That means that conditional on the set of covariates, the responses would be Bernoulli distributed random variables. Therefore, it makes sense to model the probability that the response equals one given all the covariates, i.e., 
 
 $$\mathbb{P}(Y = 1 |X). $$
 
@@ -51,7 +51,7 @@ In logistic regression, as in other generalized linear models, we have two types
 
 ## <a class=anchor id=logit_diagnostics></a> Model diagnostics
 
-As in linear regression, for logistic regression the model diagnostics serve as a way to assess whether our fitted model captures the structure of the data. Some graphical diagnostic tools may inlcude: (1) plot of the residuals (Pearson or deviance) against the fitted values; (2) plot of the observed values against the fitted values; or (3) the Cook's distance plot, among many others. Chapter 5 from the book [*Applied Logistic Regression*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387), describes in detail how to assess the model fit on logistic regression, including summary measures og goodness of fit, model diagnostics and assessment of fit via external validation. Additionally sections 14.7 and 14.8 from the book  [*Applied Linear Regression Models*](http://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf), and sections 10.4 and 10.5 from the book [*Statistical Inference*](https://www.cambridge.org/core/journals/mathematical-gazette/article/abs/statistical-inference-2nd-edn-by-paul-h-garthwaite-ian-t-jolliffe-and-byron-jones-pp328-40-hbk-2002-isbn-0-19-857226-3-oxford-university-press/FB9EBD3320909B8F7F968615CD8463B2), present also how to conduct model diagnostics and assess the goodness of fit in logistic regression models.
+As in linear regression, for logistic regression the model diagnostics serve as a way to assess whether our fitted model captures the structure of the data. Some graphical diagnostic tools may include: (1) plot of the residuals (Pearson or deviance) against the fitted values; (2) plot of the observed values against the fitted values; or (3) the Cook's distance plot, among many others. Chapter 5 from the book [*Applied Logistic Regression*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387), describes in detail how to assess the model fit on logistic regression, including summary measures of goodness of fit, model diagnostics and assessment of fit via external validation. Additionally sections 14.7 and 14.8 from the book  [*Applied Linear Regression Models*](http://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf), and sections 10.4 and 10.5 from the book [*Statistical Inference*](https://www.cambridge.org/core/journals/mathematical-gazette/article/abs/statistical-inference-2nd-edn-by-paul-h-garthwaite-ian-t-jolliffe-and-byron-jones-pp328-40-hbk-2002-isbn-0-19-857226-3-oxford-university-press/FB9EBD3320909B8F7F968615CD8463B2), present also how to conduct model diagnostics and assess the goodness of fit in logistic regression models.
 
 ## <a class=anchor id=binom_reg></a> Binomial regression
 
