@@ -30,7 +30,7 @@ The ANU offers a
                     <li>DEMO8063/DEMO4063: Spatial Population Data Analysis</li>
                  </ul>
             </li>
-             <li>Joint Colleges of Science
+             <li>Joint Colleges of Science (CHM and CoS)
                  <ul>
                      <li>ENVS6015/ENVS2015: GIS and Spatial Analysis</li>
                      <li>EMSC8706/ EMSC4706: Introduction to natural Hazards</li>
@@ -57,7 +57,7 @@ The ANU offers a
                     <li>EMET8001/EMET4301: Applied micro econometrics</li>
                  </ul>
             </li>
-             <li>Joint Colleges of Science
+             <li>Joint Colleges of Science (CHM and CoS)
                  <ul>
                      <li>POPH8101/POPH4101: Biostatistics in Population health</li>
                 </ul>
@@ -178,7 +178,7 @@ The ANU offers a
                     <li>COMP2550: Advanced computing R&D methods</li>
                  </ul>
             </li>
-            <li>Joint Colleges of Science
+            <li>Joint Colleges of Science (CHM and CoS)
                 <ul>
                     <li>POPM8001: Research, treatment, policy: Current Issues in mental health</li>
                     <li>EMSC8017/EMSC4017: Research methods for earth sciences</li>
