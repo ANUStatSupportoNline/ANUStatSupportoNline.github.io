@@ -93,3 +93,4 @@ In order to implement simple and multiple linear regression, and to perform mode
 * UCLA: Statistical Consulting Group. Regression with Stata Chapter 1. Retrieved from: https://stats.idre.ucla.edu/stata/webbooks/reg/chapter1/regressionwith-statachapter-1-simple-and-multiple-regression/.
 
 * Wackerly, D.D., Mendenhall, W.III., Scheaffer, R.L., (2007). *Mathematical Statistics with Applications*. Thomson Learning, Inc.
+
