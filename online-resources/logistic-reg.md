@@ -19,29 +19,29 @@ Throughout this fact sheet, we are going to present useful resources on logistic
 
 As discussed in previous fact sheets, the linear regression model assumes that the response is real-valued and the error term is a normally distributed random variable. 
 
-However, in many cases we would like to model a non-real-valued, but binary, response variable based on a set of explanatory variables. For example, our response variable might be: malignant or benign tumor; fraudulent or not fraudulent; or accepted vs rejected, among others. In such cases, we can easily encode our qualitative responses using an indicator function. That means that conditional on the set of covariates, the responses would be Bernoulli distributed random variables. Therefore, it makes sense to model the probability that the response equals one given all the covariates, i.e., 
+However, in many cases we would like to model a non-real-valued, but binary, response variable based on a set of explanatory variables. For example, our response variable might be: malignant or benign tumor; fraudulent or not fraudulent; or accepted vs rejected, among others. In such cases, we can easily encode our qualitative responses using an indicator function. That means that conditional on the set of covariates, the responses would be Bernoulli distributed random variables. Therefore, it makes sense to model the probability that the response equals one given all the covariates, i.e.,
 
-$$\mathbb{P}(Y = 1 |X). $$
+<img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y = 1 |X).">
 
-But, naturally, one question arises: How can we relate the covariates $X$ with $\mathbb{P}(Y = 1 |X)$? Using a link function. More specifically, a logit link function, which is going to be presented in the [next subsection](#logit_link).
+But, naturally, one question arises: How can we relate the covariates, <img src="https://render.githubusercontent.com/render/math?math=X">, with <img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)">? Using a link function! More specifically, a logit link function, which is going to be presented in the [next subsection](#logit_link).
 
-For a much deep understanding of logistic regression we can refer to the book [*Applied Logistic Regression*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387) by Hosmer et al. (2013), which presents a complete overview in logistic regression. Additionally, Chapter 14 from the book  [*Applied Linear Regression Models*](http://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf) by Kutner et al. (2005), and Chapter 2 from the book [*Extending the Linear Model with R*](https://www.taylorfrancis.com/books/mono/10.1201/9781315382722/extending-linear-model-julian-faraway) by Faraway (2016) are also great resources on how to model binary response variables. 
+For a deeper understanding of logistic regression we can refer to the book [*Applied Logistic Regression*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387) by Hosmer et al. (2013), which presents a complete overview in logistic regression. Additionally, Chapter 14 from the book  [*Applied Linear Regression Models*](http://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf) by Kutner et al. (2005), and Chapter 2 from the book [*Extending the Linear Model with R*](https://www.taylorfrancis.com/books/mono/10.1201/9781315382722/extending-linear-model-julian-faraway) by Faraway (2016) are also great resources on how to model binary response variables. 
 
 ## <a class=anchor id=logit_link></a> Logit link function
 
-In the generalized linear models literature, the link function let us relate the linear predictor (the same as in a regression model) to the expected value of the response, and from basic probability, we have that the expected value of a binary response is equal to $\mathbb{P}(Y = 1 |X)$. In other words, we want to relate $\mathbb{P}(Y = 1 |X)$ and $\mathbf{x}'\boldsymbol{\beta}$. 
+In the generalized linear models literature, the link function let us relate the linear predictor (the same as in a regression model) to the expected value of the response, and from basic probability, we have that the expected value of a binary response is equal to <img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)">. In other words, we want to relate <img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)"> and <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}'\boldsymbol{\beta}">. 
 
-For Bernoulli distributed responses, the canonical link function (and the most popular link function) is the logit link. That means that the logistic function (the inverse of the logit function) will map from $\mathbf{x}'\boldsymbol{\beta}$ to $\mathbb{P}(Y = 1 |X)$ as
+For Bernoulli distributed responses, the canonical link function (and the most popular link function) is the logit link. That means that the logistic function (the inverse of the logit function) will map from <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}'\boldsymbol{\beta}"> to <img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)"> as
 
-$$\mathbb{P}(Y = 1 |X) = g^{-1}(\mathbf{x}'\boldsymbol{\beta}) =\frac{e^{\mathbf{x}'\boldsymbol{\beta}}}{1 + e^{\mathbf{x}'\boldsymbol{\beta}}}, $$
+<img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)=g^{-1}(\mathbf{x}'\boldsymbol{\beta})=\frac{e^{\mathbf{x}'\boldsymbol{\beta}}}{1\dotplus e^{\mathbf{x}'\boldsymbol{\beta}}},">
 
-where $g()$ is the logit function. 
+where <img src="https://render.githubusercontent.com/render/math?math=g()"> is the logit function. 
 
 As mentioned earlier, the most popular link function is the logit link. However, other existing links in the literature are the Probit link, the extreme value link, the Cauchy link, and the complementary log-log link. For a broader discussion on canonical link functions (and their relation to GLMs and exponential families) see section 2.6 from the book [*Statistical Inference*](https://www.cambridge.org/core/journals/mathematical-gazette/article/abs/statistical-inference-2nd-edn-by-paul-h-garthwaite-ian-t-jolliffe-and-byron-jones-pp328-40-hbk-2002-isbn-0-19-857226-3-oxford-university-press/FB9EBD3320909B8F7F968615CD8463B2) by Garthwaite et al. (2009). For a discussion on the use of other link functions see section 14.2 from the book [*Applied Linear Regression Models*](http://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf).
 
 ## <a class=anchor id=logit_estimation></a> Learning the model parameters
 
-As in linear regression, our goal is to learn the parameter vector $\boldsymbol{\beta}$. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. As expected, the idea is to choose the set of parameters that maximizes the likelihood function.
+As in linear regression, our goal is to learn the parameter vector  <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}">. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. As expected, the idea is to choose the set of parameters that maximizes the likelihood function.
 
 Nonetheless, there are other popular learning algorithms, including penalized likelihood. See for example, the work by Friedman et al. (2010) [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://doi.org/10.18637/jss.v033.i01).
 
@@ -55,11 +55,11 @@ As in linear regression, for logistic regression the model diagnostics serve as 
 
 ## <a class=anchor id=binom_reg></a> Binomial regression
 
-A wider generalization of the logistic regression model for binary data is the binomial regression model with a logit link. Recall that if we have $n$ independent Bernoulli distributed random variables $Y_{1},\, Y_{2},\,\dots,\,Y_{n}$ with parameter $p$, then
+A wider generalization of the logistic regression model for binary data is the binomial regression model with a logit link. Recall that if we have <img src="https://render.githubusercontent.com/render/math?math=n"> independent Bernoulli distributed random variables <img src="https://render.githubusercontent.com/render/math?math=Y_{1},\,Y_{2},\,\dots,\,Y_{n}"> with parameter <img src="https://render.githubusercontent.com/render/math?math=p">, then
 
-$$Y=\sum_{i=1}^{n}Y_{i}$$
+<img src="https://render.githubusercontent.com/render/math?math=Y=\sum_{i=1}^{n}Y_{i}">
 
-will have a $\text{Bin}(n,\,p)$ distribution. Moreover, note that if $n=1$, then $\text{Bin}(n,\,p) = \text{Ber}(p)$. Thus, the binomial regression model is a generalization of the logistic regression model for binary data. However, in the binomial model the response variable is the sum of $n$ independent Bernoulli random variables, where the parameter $n$ is assumed to be known by the researcher. Again, as in logistic regression for binary data, we need to relate the mean of the binomial distribution to the the linear predictor. It turns out that the most natural way to do so its by using a logit link, just as before. As usual, we can also learn the model parameters $\boldsymbol{\beta}$ in the same way as before. By maximizing the log-binomial likelihood. 
+will have a <img src="https://render.githubusercontent.com/render/math?math=\text{Bin}(n,\,p)"> distribution. Moreover, note that if <img src="https://render.githubusercontent.com/render/math?math=n=1">, then <img src="https://render.githubusercontent.com/render/math?math=\text{Bin}(n,\,p)="><img src="https://render.githubusercontent.com/render/math?math=\text{Ber}(p)">. Thus, the binomial regression model is a generalization of the logistic regression model for binary data. However, in the binomial model the response variable is the sum of <img src="https://render.githubusercontent.com/render/math?math=n"> independent and identically distributed Bernoulli random variables, where the parameter <img src="https://render.githubusercontent.com/render/math?math=n"> is assumed to be known by the researcher. Again, as in logistic regression for binary data, we need to relate the mean of the binomial distribution to the the linear predictor. It turns out that the most natural way to do this its by using a logit link. As usual, we can also learn the model parameters <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> in the same way as before. By maximizing the log-binomial likelihood. 
 
 ## <a class=anchor id=logit_implementation></a> Implementation
 
