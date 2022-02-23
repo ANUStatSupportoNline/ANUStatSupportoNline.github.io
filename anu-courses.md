@@ -1,4 +1,4 @@
-# Semester-long courses 
+# Semester-long Courses 
 
 The ANU offers a 
 
