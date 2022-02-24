@@ -7,3 +7,5 @@ The Statistical Support Network is a network of statisticians that specialises i
 [link to matrix](https://anustatsupportonline.github.io/anu-courses).
 
 [link to SSN online Resources](https://anustatsupportonline.github.io/SSN-online-resources).
+
+[Our network](https://anustatsupportonline.github.io/our-network)
