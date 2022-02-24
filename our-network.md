@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-    <td><img src="/ANUStatSupportoNline.github.io/assets/images/Alice.jpg"></td>
+    <td>![Alice](/least-github-pages/assets/logo.png)</td>
     <td><h2></h2></td>
  </tr>
  <tr>
