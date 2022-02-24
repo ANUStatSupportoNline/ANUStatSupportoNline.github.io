@@ -4,7 +4,7 @@
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/ANUStatSupportoNline/ANUStatSupportoNline.github.io/blob/main/assets/Alice.png"></td>
+    <td><img src="assets/Alice.jpg" alt="Image description"></td>
     <td><h2></h2></td>
  </tr>
  <tr>
