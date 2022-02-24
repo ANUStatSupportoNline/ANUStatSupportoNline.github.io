@@ -48,7 +48,7 @@ ANU colleges offer a wide variety
         <ul>
             <li>CBE
                 <ul>
-                    <li>EMET6007/EMET4007/EMET2007: Es 1</li>
+                    <li>EMET6007/EMET4007/EMET2007: Econometrics 1</li>
                     <li>EMET8001/EMET4301: Applied micro econometrics</li>
                     <li>EMET8014/EMET4314: Advanced econometrics 1</li>
                     <li>EMET8008/EMET4308: Advanced econometrics 2</li>
