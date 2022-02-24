@@ -10,8 +10,8 @@ The SSN provides a
  <tr>
     <td> 
         <ul>
-            <li>Linear Regression</li>
-            <li>Logistic Regression</li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/lin-reg">Linear Regression</a></li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/logistic-reg">Logistic Regression</a></li>
         </ul>
     </td>
     <td>
