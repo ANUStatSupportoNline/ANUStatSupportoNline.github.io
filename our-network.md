@@ -1,6 +1,6 @@
 # Our Network
 
-![Alice](ANUStatSupportoNline/ANUStatSupportoNline.github.io/assets/Alice.png)
+![Alice](assets/images/Alice.png)
 
 <table border="0">
  <tr>
