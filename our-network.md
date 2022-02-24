@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-    <td>![Alice](/least-github-pages/assets/logo.png)</td>
+    <td><img src="https://render.githubusercontent.com/render/math?math=\mathbb{P}(Y=1|X)=g^{-1}(\mathbf{x}'\boldsymbol{\beta})=\frac{e^{\mathbf{x}'\boldsymbol{\beta}}}{1\dotplus e^{\mathbf{x}'\boldsymbol{\beta}}},"></td>
     <td><h2></h2></td>
  </tr>
  <tr>
