@@ -4,7 +4,7 @@
 
 <table border="0">
  <tr>
-    <td><img src="assets/Alice.jpg" alt="Image description"></td>
+    <td><img src="assets/images/Alice.png" alt="Alice"></td>
     <td><h2></h2></td>
  </tr>
  <tr>
