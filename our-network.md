@@ -9,9 +9,7 @@
  </tr>
  <tr>
     <td>
-     Alice Richardson
-     Lead, SSN
-     linear models, multilevel models
+     Alice Richardson, Lead SSN.
     </td>
     <td>
         <ul>
