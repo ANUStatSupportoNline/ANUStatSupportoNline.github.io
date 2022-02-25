@@ -1,6 +1,6 @@
 # SSN Online Resources
 
-The SSN provides a 
+These fact sheets provide a couple of pages of introduction to many of the common topics discussed in SSN consultations.   
 
 <table border="0">
  <tr>
