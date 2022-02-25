@@ -9,11 +9,13 @@
  </tr>
  <tr>
     <td>
-     Alice
+     Alice Richardson
+     Lead, SSN
+     linear models, multilevel models
     </td>
     <td>
         <ul>
-            <li>Some Other Fact Sheet</li>
+            <li>Next SSN member</li>
         </ul>
     </td>
  </tr>
