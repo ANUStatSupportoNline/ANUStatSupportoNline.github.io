@@ -1,6 +1,6 @@
 # Our Network
 
-<table border="0">
+<table cellpadding="0" cellspacing="0" border="0">
  <tr>
     <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Alice.png" alt="Alice"
              width = "200" 
