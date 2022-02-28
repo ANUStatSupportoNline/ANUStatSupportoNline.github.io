@@ -2,12 +2,6 @@
 
 Throughout this fact sheet, we are going to discuss what is linear regression and its importance in applied statistics.
 
-<div style="text-align: center;">
-  <img src="/assets/images/lin_reg_plot.png" alt="Lin_reg"
-             width = "450" 
-             height = "450">
-</div>
-
 ## Contents
 
 - [What is linear regression?](#what_is_LR)
@@ -22,6 +16,12 @@ Throughout this fact sheet, we are going to discuss what is linear regression an
 - [References](#LR_ref)
 
 ## <a class=anchor id=what_is_LR></a> What is linear regression?
+
+<div style="text-align: center;">
+  <img src="/assets/images/lin_reg_plot.png" alt="Lin_reg"
+             width = "450" 
+             height = "450">
+</div>
 
 Linear regression is one of the simplest and most intuitive approaches for statistical analysis and supervised learning. It is used to find or explain the relationship between a set of inputs (also known as explanatory variables, covariates or features), and a real-valued output (also known as the response variable). Note that in linear regression, the response must be a continuous variable, but the explanatory variables can be continuous, discrete or categorical. 
 
