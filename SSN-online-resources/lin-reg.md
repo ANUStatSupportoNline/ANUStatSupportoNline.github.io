@@ -3,6 +3,8 @@
 Throughout this fact sheet, we are going to discuss what is linear regression and its importance in applied statistics.
 
 <embed src="https://ANUStatSupportoNline.github.io/assets/images/lin_reg_plot.pdf" width="400" height="400" />
+<script src="https://ANUStatSupportoNline.github.io/assets/images/lin_reg_plot.pdf"></script>
+<iframe src="https://ANUStatSupportoNline.github.io/assets/images/lin_reg_plot.pdf" width="400"; height="400";" frameborder="0"></iframe>
 
 ## Contents
 
