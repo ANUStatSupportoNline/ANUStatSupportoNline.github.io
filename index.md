@@ -1,11 +1,13 @@
 # Statistical Support Online
 
-Welcome to the statistics support online web portal from the ANU's Statistical Support Network. 
+Welcome to the statistics support online web portal from the [ANU's Statistical Support Network](https://services.anu.edu.au/business-units/dean-higher-degree-research/statistical-support-network) (SSN).
 
-The Statistical Support Network is a network of statisticians that specialises in statistical applications in academic research in the sciences and humanities. Its predecessor, the Statistical Consulting Unit, was established in 1982 and built a strong reputation for expert statistical advice in study design, data collection and data analysis across all disciplines. Research collaboration is central to our role. The Statistical Support Network replaced the SCU in August 2021 and it aims to be the most significant source of statistical advice in ANU. The Network has the technical expertise to keep abreast of the fast-evolving research methodologies in a data-driven research environment, across a broad range of disciplines. It consistently advocates for appropriate study designs for experiments and surveys, and provides advice in data management, exploratory data analysis, statistical modelling and data presentation. It offers short courses and workshops in statistics tailored to specific research areas, as well as more generalist online courses.
+## About the SSN
 
-[Link to matrix](https://anustatsupportonline.github.io/anu-courses).
+The SSN is a network of statisticians that specialises in statistical applications in academic research in the sciences and humanities. Its predecessor, the Statistical Consulting Unit (SCU), was established in 1982 and built a strong reputation for expert statistical advice in study design, data collection and data analysis across all disciplines. Research collaboration is central to our role. The SSN replaced the SCU in August 2021 and it aims to be the most significant source of statistical advice in ANU. The Network has the technical expertise to keep abreast of the fast-evolving research methodologies in a data-driven research environment, across a broad range of disciplines. It consistently advocates for appropriate study designs for experiments and surveys, and provides advice in data management, exploratory data analysis, statistical modelling and data presentation. It offers short courses and workshops in statistics tailored to specific research areas, as well as more generalist online courses.
 
-[Link to SSN online resources](https://anustatsupportonline.github.io/SSN-online-resources).
+## Related links
 
-[Our network](https://anustatsupportonline.github.io/our-network)
++ [Our network](https://anustatsupportonline.github.io/our-network)
++ [SSN Online Resources](https://anustatsupportonline.github.io/SSN-online-resources)
++ [ANU Courses in Applied Statistics](https://anustatsupportonline.github.io/anu-courses)
