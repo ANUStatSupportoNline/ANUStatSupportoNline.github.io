@@ -17,6 +17,12 @@ Throughout this fact sheet, we are going to present useful resources on logistic
 
 ## <a class=anchor id=what_is_Logit></a> What is logistic regression?
 
+<div style="text-align: center;">
+  <img src="/assets/images/logit_reg_plot.png" alt="Logistic_reg"
+             width = "450" 
+             height = "450">
+</div>
+
 As discussed in previous fact sheets, the linear regression model assumes that the response is real-valued and the error term is a normally distributed random variable. 
 
 However, in many cases we would like to model a non-real-valued, but binary, response variable based on a set of explanatory variables. For example, our response variable might be: malignant or benign tumor; fraudulent or not fraudulent; or accepted vs rejected, among others. In such cases, we can easily encode our qualitative responses using an indicator function. That means that conditional on the set of covariates, the responses would be Bernoulli distributed random variables. Therefore, it makes sense to model the probability that the response equals one given all the covariates, i.e.,
