@@ -2,10 +2,12 @@
 
 Throughout this fact sheet, we are going to discuss what is linear regression and its importance in applied statistics.
 
-<img src="assets/images/lin_reg_plot.png" alt="Lin_reg"
-             width = "200" 
-             height = "200">
-             
+<div style="text-align: center;">
+  <img src="/assets/images/lin_reg_plot.png" alt="Lin_reg"
+             width = "450" 
+             height = "450">
+</div>
+
 ## Contents
 
 - [What is linear regression?](#what_is_LR)
