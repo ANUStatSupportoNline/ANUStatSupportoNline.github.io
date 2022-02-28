@@ -1,7 +1,11 @@
 # Linear Regression
 
 Throughout this fact sheet, we are going to discuss what is linear regression and its importance in applied statistics.
-                                                                                                                               
+
+<object data="http://ANUStatSupportoNline.github.io/assets/images/lin_reg_plot.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://ANUStatSupportoNline.github.io/assets/images/lin_reg_plot.pdf"> </embed>
+</object>
+
 ## Contents
 
 - [What is linear regression?](#what_is_LR)
