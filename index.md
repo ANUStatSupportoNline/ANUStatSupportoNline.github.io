@@ -11,3 +11,8 @@ The SSN is a network of statisticians that specialises in statistical applicatio
 + [Our network](https://anustatsupportonline.github.io/our-network)
 + [SSN Online Resources](https://anustatsupportonline.github.io/SSN-online-resources)
 + [ANU Courses in Applied Statistics](https://anustatsupportonline.github.io/anu-courses)
+
+	
+&#128101;
+
+
