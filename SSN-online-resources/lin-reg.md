@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear regression
 
 Throughout this fact sheet, we are going to discuss what is linear regression and its importance in applied statistics.
 
