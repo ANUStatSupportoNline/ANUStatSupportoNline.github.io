@@ -20,7 +20,7 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
             </li>
              <li>CBE
                  <ul>
-                     <li><small>STAT7029/STAT4029/STAT3012: Design of experiments and surveys</small></small></li>
+                     <li><small>STAT7029/STAT4029/STAT3012: Design of experiments and surveys</small></li>
                 </ul>
              </li>
         </ul>
