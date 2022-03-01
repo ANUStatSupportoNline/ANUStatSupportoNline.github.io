@@ -55,7 +55,7 @@ Chapter 3 from the book [*Extending the Linear Model with R*](https://www.taylor
 
 In order to implement logistic regression models in Stata, we can follow the guide [*Poisson Regression - STATA data analysis examples*](https://stats.oarc.ucla.edu/stata/dae/poisson-regression/), developed by the IDRE from UCLA. 
 
-## <a class=anchor id=logit_ref></a> References
+## <a class=anchor id=pois_ref></a> References
 
 + Faraway, J. (2016). *Extending the Linear Model with R*. CRC Press.
 
