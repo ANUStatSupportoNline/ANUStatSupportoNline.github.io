@@ -100,7 +100,12 @@ In order to implement simple and multiple linear regression, and to perform mode
 
 * Wackerly, D.D., Mendenhall, W.III., Scheaffer, R.L., (2007). *Mathematical Statistics with Applications*. Thomson Learning, Inc.
 
-<span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a>
+<span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
+<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-online-resources">Return to SSN Online Resources page</a>
+
+
+
+
 
 
 
