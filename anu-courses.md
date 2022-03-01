@@ -14,13 +14,13 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
         <ul>
             <li>CASS
                 <ul>
-                    <li>SOCR8002/SOCR4002: Survey Data Analysis</li>
-                    <li>SOCR8010: Advanced Survey Data Analysis</li>
+                    <li><small>SOCR8002/SOCR4002: Survey Data Analysis</small></li>
+                    <li><small>SOCR8010: Advanced Survey Data Analysis</small></li>
                  </ul>
             </li>
              <li>CBE
                  <ul>
-                     <li>STAT7029/STAT4029/STAT3012: Design of experiments and surveys</li>
+                     <li><small>STAT7029/STAT4029/STAT3012: Design of experiments and surveys</small></li>
                 </ul>
              </li>
         </ul>
