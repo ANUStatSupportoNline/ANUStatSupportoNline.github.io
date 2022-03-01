@@ -13,6 +13,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
             <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/lin-reg">Linear regression</a></li>
             <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/logistic-reg">Logistic regression</a></li>
             <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/pois-reg">Poisson regression</a></li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-online-resources/neg-bin-reg">Negative binomial regression</a></li>
         </ul>
     </td>
     <td>
@@ -25,3 +26,4 @@ These fact sheets provide a couple of pages of introduction to many of the commo
 
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a>
+
