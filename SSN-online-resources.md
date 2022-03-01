@@ -21,3 +21,6 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
  </tr>
 </table>
+
+
+<span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a>
