@@ -1,8 +1,8 @@
 # Semester-long Courses 
 
-The SSN offers four self-paced online courses for you to access at any time: for more information and to register go to https://services.anu.edu.au/training/online-statistics-courses.
+The SSN offers four self-paced online courses for you to access at any time: for more information and to register please visit the [SSN online statistics courses website](https://services.anu.edu.au/training/online-statistics-courses).
 
-ANU colleges also ffer a wide variety of semester long courses on statistical topics, at levels from introductory to advanced, and your program may include the option to audit or enrol in these courses. The table below shows possible courses organised by College and topic.
+Additionally, ANU colleges also offer a wide variety of semester-long courses on statistical topics, at levels from introductory to advanced, and your program may include the option to audit or enrol in these courses. Some courses have prerequisites, including assumed knowledge and prior completion of other subjects. Please check the [Programs & Courses website](https://programsandcourses.anu.edu.au/) for prerequisite details or contact the ANU Academic College that manages the course you are applying for. The table below shows possible courses organised by College and topic.
 
 <table border="0">
  <tr>
