@@ -22,27 +22,27 @@ A seminal resource on Poisson regression is chapter 3 from the book [*Extending 
 
 ## <a class=anchor id=log_link_pois></a> Log link function
 
-Let us assume that $Y_{i}$ is a Poisson distributed random variable with mean $\mu_{i}$, for $i=1,\dots,\,n$. Moreover, by the properties of the Poisson distribution, we have that $\mathbb{E}[Y_{i}] = \text{var}(Y_{i}) = \mu_{i}$. This means that the Poisson model assumes that the mean of each observation is equal to its variance, which may be a quite restrictive assumption. In other fact sheets, we will consider Negative Binomial regression, which relaxes this assumption.
+Let us assume that <img src="https://render.githubusercontent.com/render/math?math=Y_{i}"> is a Poisson distributed random variable with mean <img src="https://render.githubusercontent.com/render/math?math=\mu_{i}">, for <img src="https://render.githubusercontent.com/render/math?math=i=1,\dots,\,n">. Moreover, by the properties of the Poisson distribution, we have that <img src="https://render.githubusercontent.com/render/math?math=\mathbb{E}[Y_{i}] = \text{var}(Y_{i}) = \mu_{i}">. This means that the Poisson model assumes that the mean of each observation is equal to its variance, which may be a quite restrictive assumption. In other fact sheets, we will consider Negative Binomial regression, which relaxes this assumption.
 
-Going back to the Poisson case, we now want to relate $\mu_{i}$ to the linear predictor $\mathbf{x}_{i}'\boldsymbol{\beta}$. The most natural way is to use the canonical link. More formally, we will relate $\mathbf{x}_{i}'\boldsymbol{\beta}$ and $\mu_{i}$ as
+Going back to the Poisson case, we now want to relate <img src="https://render.githubusercontent.com/render/math?math=\mu_{i}"> to the linear predictor <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}_{i}'\boldsymbol{\beta}">. The most natural way is to use the canonical link. More formally, we will relate <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}_{i}'\boldsymbol{\beta}"> and <img src="https://render.githubusercontent.com/render/math?math=\mu_{i}"> as
 
-$$\log{\mu_{i}} =\mathbf{x}_{i}'\boldsymbol{\beta}. $$
+<img src="https://render.githubusercontent.com/render/math?math=\log{\mu_{i}} =\mathbf{x}_{i}'\boldsymbol{\beta}.">
 
-Note that as in logistic regression models, this models also has a linear predictor and a link function, and our goal is to learn the parameter vector $\boldsymbol{\beta}$. 
+As in logistic regression models, we have a linear predictor and a link function, and our goal is to learn the parameter vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}">. 
 
 ## <a class=anchor id=pois_estimation></a> Learning the model parameters
 
-This section closely resembles our fact sheet on logistic regression. As in logistic regression, our goal is to learn the parameter vector $\boldsymbol{\beta}$. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. As expected, the idea is to choose the set of parameters that maximizes the likelihood function.
+This section closely resembles our fact sheet on logistic regression. As in logistic regression, our goal is to learn the parameter vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}">. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. As expected, the idea is to choose the set of parameters that maximizes the likelihood function.
 
 Nonetheless, there are other popular learning algorithms, including penalized likelihood. See for example, the work by Friedman et al. (2010) [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://doi.org/10.18637/jss.v033.i01).
 
 ## <a class=anchor id=pois_Dispersion></a> Dispersion parameter
 
-As discussed earlier, the Poisson distribution assumes that $\mathbb{E}[Y_{i}] = \text{var}(Y_{i}) = \mu_{i}$, which may be quite restrictive for some applications. Nonetheless, we can introduce a dispersion parameter in the model. This parameter can captures over- or under-dispersion. Let us define $\phi$ as the dispersion parameter, such that, $\text{var}(Y) = \phi\mu$. Note that in the traditional Poisson regression we set $\phi=1$, while $\phi>1$ is used to account for overdispersion and $\phi<1$ is used for underdispersion. The parameter $\phi$ is unknown, but it can be estimated as 
+As discussed earlier, the Poisson distribution assumes that <img src="https://render.githubusercontent.com/render/math?math=\mathbb{E}[Y_{i}] = \text{var}(Y_{i}) = \mu_{i}">, which may be quite restrictive for some applications. Nonetheless, we can introduce a dispersion parameter in the model. This parameter can captures over- or under-dispersion. Let us define <img src="https://render.githubusercontent.com/render/math?math=\phi"> as the dispersion parameter, such that, <img src="https://render.githubusercontent.com/render/math?math=\text{var}(Y) = \phi\mu">. Note that in the traditional Poisson regression we set <img src="https://render.githubusercontent.com/render/math?math=\phi=1">, while <img src="https://render.githubusercontent.com/render/math?math=\phi>1"> is used to account for overdispersion and <img src="https://render.githubusercontent.com/render/math?math=\phi<1"> is used for underdispersion. The parameter <img src="https://render.githubusercontent.com/render/math?math=\phi"> is unknown, but it can be estimated as 
 
-$$\hat{\phi}=\frac{\sum_{i}(y_{i} - \hat{\mu}_{i})^{2}/\hat{\mu}_{i}}{n-p}, $$
+<img src="https://render.githubusercontent.com/render/math?math=\hat{\phi}=\frac{\sum_{i}(y_{i} - \hat{\mu}_{i})^{2}/\hat{\mu}_{i}}{n-p},">
 
-where $\hat{\mu}_{i}$ is the maximum likelihood solution for $\mu_{i}$, and $p$ is the dimension of the parameter vector $\boldsymbol{\beta}$.
+where <img src="https://render.githubusercontent.com/render/math?math=\hat{\mu}_{i}"> is the maximum likelihood solution for <img src="https://render.githubusercontent.com/render/math?math=\mu_{i}">, and <img src="https://render.githubusercontent.com/render/math?math=p"> is the dimension of the parameter vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}">.
 
 ## <a class=anchor id=pois_implementation></a> Implementation
 
