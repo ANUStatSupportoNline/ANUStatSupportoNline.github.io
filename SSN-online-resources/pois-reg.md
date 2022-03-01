@@ -2,6 +2,7 @@
 
 in this fact sheet, we are going to discuss what is Poisson regression and its importance in applied statistics.
 
+
 ## Contents
 
 - [What is Poisson regression?](#what_is_Pois_reg)
