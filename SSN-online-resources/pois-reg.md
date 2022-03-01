@@ -16,6 +16,12 @@ in this fact sheet, we are going to discuss what is Poisson regression and its i
 
 ## <a class=anchor id=what_is_Pois_reg></a> What is Poisson regression?
 
+<div style="text-align: center;">
+  <img src="/assets/images/pois_plot.png" alt="Pois_pmf"
+             width = "450" 
+             height = "450">
+</div>
+
 Similar to logistic regression, Poisson regression is a generalized linear model. However, in Poisson regression, we are interested in modelling count data and contingency tables. More precisely, it assumes that the response variable is a Poisson distributed random variable, where the mean of the Poisson distribution is related to the linear predictor trough a link function. The most popular link function in Poisson regression is the log link, which in fact, is the canonical link. 
 
 A seminal resource on Poisson regression is chapter 3 from the book [*Extending the Linear Model with R*](https://www.taylorfrancis.com/books/mono/10.1201/9781315382722/extending-linear-model-julian-faraway) by Faraway (2016).
