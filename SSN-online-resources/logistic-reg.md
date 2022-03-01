@@ -2,6 +2,7 @@
 
 Throughout this fact sheet, we are going to present useful resources on logistic regression.
 
+
 ## Contents
 
 - [What is logistic regression?](#what_is_Logit)
