@@ -70,3 +70,7 @@ In order to implement multinomial regression and ordered logistic regression mod
 * UCLA: Statistical Consulting Group. Multinomial logistic regression | STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/multinomiallogistic-regression/.
 
 * UCLA: Statistical Consulting Group. Ordered logistic regression | STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/ordered-logistic-regression/.
+
+
+<span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
+<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-resources">Return to SSN Resources page</a>
