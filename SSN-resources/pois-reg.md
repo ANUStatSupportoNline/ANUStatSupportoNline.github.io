@@ -71,4 +71,4 @@ In order to implement logistic regression models in Stata, we can follow the gui
 * UCLA: Statistical Consulting Group. Poisson Regression - STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/poisson-regression/.
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
-<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-online-resources">Return to SSN Online Resources page</a>
+<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-resources">Return to SSN Resources page</a>
