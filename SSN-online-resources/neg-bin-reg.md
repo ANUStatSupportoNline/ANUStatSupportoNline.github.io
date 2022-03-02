@@ -20,25 +20,26 @@ Useful resources on negative binomial regression are the books [*Regression Anal
 
 ## <a class=anchor id=Pois_and_NB></a> Relationship with Poisson regression
 
-The negative binomial model is a generalization of the Poisson model. To see this, let us consider the random variable $Y\sim\text{Pois}(\lambda)$. If we let the parameter $\lambda$ be a gamma distributed random variable as
+The negative binomial model is a generalization of the Poisson model. To see this, let us consider the random variable <img src="https://render.githubusercontent.com/render/math?math=Y\sim\text{Pois}(\lambda)">. If we let the parameter <img src="https://render.githubusercontent.com/render/math?math=\lambda"> be a gamma distributed random variable as
 
-$$ \lambda\sim\mathcal{G}(\text{shape} = r,\; \text{scale}=p/(1-p)),$$
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\sim\mathcal{G}(\text{shape}=r,\text{ scale}=p/(1-p)),">
 
-then $Y\sim\mathcal{NB}(r,\,p)$. Now, for simplicity, let us define $\alpha=\frac{p}{1-p}$, then 
+then <img src="https://render.githubusercontent.com/render/math?math=Y\sim\mathcal{NB}(r, p)">. Now, for simplicity, let us define <img src="https://render.githubusercontent.com/render/math?math=\alpha=\frac{p}{1-p}">, then:
 
-$$ \mathbb{E}[Y] = r\alpha = \mu,\;\;\;\;\text{var}(Y) = r\alpha + r\alpha^{2} = \mu + \mu^{2}/r.$$
++ <img src="https://render.githubusercontent.com/render/math?math=\mathbb{E}[Y] = r\alpha = \mu">
++ <img src="https://render.githubusercontent.com/render/math?math=\text{var}(Y)=r\alpha"> + <img src="https://render.githubusercontent.com/render/math?math=r\alpha^{2}=\mu"> + <img src="https://render.githubusercontent.com/render/math?math=\mu^{2}/r"> 
 
-Therefore, we can see that in the negative binomial model, the mean does not need to be the same as the variance. One important thing to note is that unlike the Poisson distribution that has one parameter ($\lambda$), the negative binomial distribution has two parameters ($r,\; \alpha$). It is common to set $r$ as a fixed quantity determined by the researcher. 
+Therefore, we can see that in the negative binomial model, the mean does not need to be the same as the variance. One important thing to note is that unlike the Poisson distribution that has one parameter (<img src="https://render.githubusercontent.com/render/math?math=\lambda">), the negative binomial distribution has two parameters (<img src="https://render.githubusercontent.com/render/math?math=r, \alpha">). It is common to set <img src="https://render.githubusercontent.com/render/math?math=r"> as a fixed quantity determined by the researcher. 
 
-As with other generalized linear models, we need to relate the mean of the negative binomial distribution ($\mu$) to the linear predictor ($\mathbf{x}'\boldsymbol{\beta}$). The most convenient way to do this, is by using the following link function
+As with other generalized linear models, we need to relate the mean of the negative binomial distribution (<img src="https://render.githubusercontent.com/render/math?math=\mu">) to the linear predictor (<img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}'\boldsymbol{\beta}">). The most convenient way to do this, is by using the following link function
 
-$$\log\left(\frac{\mu}{\mu + k}\right) = \mathbf{x}'\boldsymbol{\beta}, $$
+<img src="https://render.githubusercontent.com/render/math?math=\log\left(\frac{\mu}{\mu + k}\right) = \mathbf{x}'\boldsymbol{\beta},">
 
-where $\boldsymbol{\beta}$ is our vector parameter of interest.
+where <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> is our vector parameter of interest.
 
 ## <a class=anchor id=NB_estimation></a> Learning the model parameters
 
-As expected, our goal is to learn the parameter vector $\boldsymbol{\beta}$. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. The idea is to choose the set of parameters that maximizes the likelihood function.
+As expected, our goal is to learn the parameter vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}">. This can be done in a variety of ways, but the most popular learning algorithm is maximum likelihood. The idea is to choose the set of parameters that maximizes the likelihood function.
 
 ## <a class=anchor id=NB_implementation></a> Implementation
 
