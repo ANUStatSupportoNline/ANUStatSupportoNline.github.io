@@ -1,4 +1,4 @@
-# Multinomial Regression
+# Multinomial regression
 
 This fact sheet presents an introduction to multinomial logistic regression.
 
