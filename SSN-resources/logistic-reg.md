@@ -94,4 +94,4 @@ In order to implement logistic regression models in Stata, we can follow the gui
 * UCLA: Statistical Consulting Group. Logistic regression with stata chapter 1: introduction to logistic regression with stata. Retrieved from: https://stats.idre.ucla.edu/stata/webbooks/logistic/chapter1/logistic-regression-with-statachapter-1-introduction-to-logistic-regression-with-stata/.
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
-<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-online-resources">Return to SSN Online Resources page</a>
+<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-resources">Return to SSN Online Resources page</a>
