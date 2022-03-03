@@ -45,11 +45,11 @@ Additionally, in ordinal response regression it is assumed that the <img src="ht
 
 Given this ordering, it is convenient to work with cumulative probabilities. In other words, we want to model the odds that <img src="https://render.githubusercontent.com/render/math?math=Y<c">. this is 
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\mathbb{P}(Y\leq c)}{1-\mathbb{P}(Y\leq c)} = \frac{\mathbb{P}(Y \leq c)}{\mathbb{P}(Y\geq c+1)} = \frac{\sum_{j=1}^{c}\pi_{j}}{\sum_{j=c+1}^{C}\pi_{j}}\exp\left\{\mathbf{x}'\boldsymbol{\beta}_{c}\right\},">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\mathbb{P}(Y\leq c)}{1-\mathbb{P}(Y\leq c)} = \frac{\mathbb{P}(Y \leq c)}{\mathbb{P}(Y\geq c\dotplus1)} = \frac{\sum_{j=1}^{c}\pi_{j}}{\sum_{j=c\dotplus1}^{C}\pi_{j}}\exp\left\{\mathbf{x}'\boldsymbol{\beta}_{c}\right\},">
 
-for $c=1,\dots,\,C-1$. This is because the probability of $Y\leq C$ is always one. 
+for <img src="https://render.githubusercontent.com/render/math?math=c=1,\dots,\,C-1">. This is because the probability of <img src="https://render.githubusercontent.com/render/math?math=Y<C"> is always one. 
 
-Again, we can learn the parameter vector $\boldsymbol{\beta}_{c}$ using maximum likelihood estimation. 
+Again, we can learn the parameter vectors <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}_{c}"> using maximum likelihood estimation. 
 
 ## <a class=anchor id=Multinom_implementation></a> Implementation
 
