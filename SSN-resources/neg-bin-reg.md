@@ -14,6 +14,13 @@ This fact sheet presents a discussion on Negative Binomial regression and its im
 
 ## <a class=anchor id=what_is_NB_reg></a> What is Negative binomial regression?
 
+<div style="text-align: center;">
+  <img src="/assets/images/neg_bin_plot.png" alt="Neg_Bin_reg"
+             width = "450" 
+             height = "450">
+</div>
+
+
 As discussed in the Poisson regression fact sheet, one of the limitations of the traditional Poisson regression model is that it assumes that the mean is equal to the variance. As in the Poisson regression case, in the negative binomial regression model, the response variable is assumed to be count data, but it relaxes the restrictive assumption that the variance is equal to the mean. 
 
 Useful resources on negative binomial regression are the books [*Regression Analysis of Count Data*](http://faculty.econ.ucdavis.edu/faculty/cameron/racd2/) by Cameron and Trivedi (2013) and [*Modeling Count Data*](https://www.cambridge.org/core/books/modeling-count-data/BFEB3985905CA70523D9F98DA8E64D08) by Hilbe (2014).
