@@ -61,15 +61,15 @@ Chapter 5 from the book [*Extending the Linear Model with R*](https://www.taylor
 
 ### <a class=anchor id=Multinom_in_stata></a> Implementation in Stata
 
-In order to implement multinomial regression and ordered logistic regression models in Stata, we can follow the guides [*Multinomial logistic regression | STATA data analysis examples*](https://stats.oarc.ucla.edu/stata/dae/multinomiallogistic-regression/) and [*Ordered logistic regression | STATA data analysis examples*](https://stats.oarc.ucla.edu/stata/dae/ordered-logistic-regression/), respectively. Both guides were developed by the IDRE from UCLA. 
+In order to implement multinomial regression and ordered logistic regression models in Stata, we can follow the guides <a href="https://stats.oarc.ucla.edu/stata/dae/multinomiallogistic-regression/">Multinomial logistic regression | STATA data analysis examples</a> and <a href="https://stats.oarc.ucla.edu/stata/dae/ordered-logistic-regression/">Ordered logistic regression | STATA data analysis examples</a>, respectively. Both guides were developed by the IDRE from UCLA. 
 
 ## <a class=anchor id=Multinom_ref></a> References
 
 + Faraway, J. (2016). *Extending the Linear Model with R*. CRC Press.
 
-* UCLA: Statistical Consulting Group. Multinomial logistic regression | STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/multinomiallogistic-regression/.
+* UCLA: Statistical Consulting Group. Multinomial logistic regression - STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/multinomiallogistic-regression/.
 
-* UCLA: Statistical Consulting Group. Ordered logistic regression | STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/ordered-logistic-regression/.
+* UCLA: Statistical Consulting Group. Ordered logistic regression - STATA data analysis examples. Retrieved from: https://stats.oarc.ucla.edu/stata/dae/ordered-logistic-regression/.
 
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
