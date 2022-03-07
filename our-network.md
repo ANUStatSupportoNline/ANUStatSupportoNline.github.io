@@ -10,9 +10,9 @@
              height = "170"></td>
  </tr>
  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div><a href="https://services.anu.edu.au/business-units/dean-higher-degree-research/statistical-support-network/associate-professor-alice">Alice Richardson</a></div><div>Statistical Support Network</div><div><span>&#9993;</span> <a href="alice.richardson@anu.edu.au"><small>alice.richardson@anu.edu.au</small></a></div><div><span>&#128222;</span> +61 2 6125 0562</div></td>
-    <td style="text-align: center; vertical-align: middle;"><div><a href="https://demography.cass.anu.edu.au/people/dr-bernard-baffour">Bernard Baffour</a></div><div>School of Demography</div><div><span>&#9993;</span> <a href="bernard.baffour@anu.edu.au"><small>bernard.baffour@anu.edu.au</small></a></div><div><span>&#128222;</span> +61 2 6125 9030</div></td>
-  <td style="text-align: center; vertical-align: middle;"><div><a href="https://researchers.anu.edu.au/researchers/kushnick-gc">Geoff Kushnick</a></div><div>School of Archaeology and Anthropology</div><div><span>&#9993;</span> <a href="geoff.kushnick@anu.edu.au"><small>geoff.kushnick@anu.edu.au</small></a></div><div><span>&#128222;</span> +61 2 6125 2271</div></td>
+    <td style="text-align: center; vertical-align: middle;"><div><a href="https://services.anu.edu.au/business-units/dean-higher-degree-research/statistical-support-network/associate-professor-alice">Alice Richardson</a></div><div><small>Statistical Support Network</small></div><div><span>&#9993;</span> <a href="alice.richardson@anu.edu.au"><small>alice.richardson@anu.edu.au</small></a></div><div><span>&#128222;</span><small> +61 2 6125 0562</small></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div><a href="https://demography.cass.anu.edu.au/people/dr-bernard-baffour">Bernard Baffour</a></div><div><small>School of Demography</small></div><div><span>&#9993;</span> <a href="bernard.baffour@anu.edu.au"><small>bernard.baffour@anu.edu.au</small></a></div><div><span>&#128222;</span><small> +61 2 6125 9030</small></div></td>
+  <td style="text-align: center; vertical-align: middle;"><div><a href="https://researchers.anu.edu.au/researchers/kushnick-gc">Geoff Kushnick</a></div><div><small>School of Archaeology and Anthropology</small></div><div><span>&#9993;</span> <a href="geoff.kushnick@anu.edu.au"><small>geoff.kushnick@anu.edu.au</small></a></div><div><span>&#128222;</span><small> +61 2 6125 2271</small></div></td>
  </tr>
  
  <tr>
