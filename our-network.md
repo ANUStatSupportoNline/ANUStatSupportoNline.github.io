@@ -40,9 +40,8 @@ Matthew Kerby</a></div><div><small>School of Politics & International Relations<
  <tr>
   <td style="text-align: center; vertical-align: middle;"><div><a href="https://psychology.anu.edu.au/people/academics/prof-mike-smithson">Michael Smithson</a></div><div><small>Research School of Psychology</small><div><span style="white-space: nowrap">&#9993;<a href="michael.smithson@anu.edu.au"> <small>michael.smithson@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> 612 58356</small></span></div></td>
    <td style="text-align: center; vertical-align: middle;"><div><a href="https://demography.cass.anu.edu.au/people/dr-sumonkanti-das">Sumonkanti Das</a></div><div><small>School of Demography</small><div><span style="white-space: nowrap">&#9993;<a href="sumonkanti.das@anu.edu.au"> <small>sumonkanti.das@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 4 2268 1412</small></span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div><a href="https://psychology.anu.edu.au/people/academics/dr-yiyun-shou">Yiyun Shou</a></div><div><small>Research School of Psychology</small><div><span style="white-space: nowrap">&#9993;<a href="yiyun.shou@anu.edu.au"> <small>yiyun.shou@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> 612 50638</small></span></div></td>
- </tr>
-</table>
+    <td style="text-align: center; vertical-align: middle;"><div><a href="https://psychology.anu.edu.au/people/academics/dr-yiyun-shou">Yiyun Shou</a></div><div><small>Research School of Psychology</small><div><span style="white-space: nowrap">&#9993;<a href="yiyun.shou@anu.edu.au"> <small>yiyun.shou@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> 612 50638</small></span></div></td></tr></table>
+
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a>
 
