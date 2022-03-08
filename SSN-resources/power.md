@@ -59,9 +59,13 @@ For example, in regression settings, Stevens (1996), suggest that we should have
 
 ## <a class=anchor id=pow_ref></a> References
 
++ Champely, S., et al. (2020). ***pwr***: Basic Functions for Power Analysis. R package version 1.3. URL https://cran.r-project.org/web/packages/pwr/.
+
 * Stevens, J. (1996). Applied multivariate statistics for the social sciences. Lawrence Erlbaum Associates, Publishers.
 
 * Van Belle, G. (2011). Statistical rules of thumb. John Wiley & Sons.
+
+
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
 <span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-resources">Return to SSN Resources page</a>
