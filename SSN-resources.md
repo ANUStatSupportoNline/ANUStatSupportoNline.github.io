@@ -23,6 +23,22 @@ These fact sheets provide a couple of pages of introduction to many of the commo
         </ul>
     </td>
  </tr>
+ <tr>
+    <td><h2>Spatial Statistics</h2></td>
+    <td><h2>Statistical Software</h2></td>
+ </tr>
+ <tr>
+    <td>
+        <ul>
+            <li>Next Fact Sheet</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Next Fact Sheet</li>
+        </ul>
+    </td>
+ </tr>
 </table>
 
 
