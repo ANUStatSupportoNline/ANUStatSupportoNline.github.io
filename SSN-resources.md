@@ -19,7 +19,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
     <td>
         <ul>
-            <li>Next Fact Sheet</li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/power">Power</a></li>
         </ul>
     </td>
  </tr>
