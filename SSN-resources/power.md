@@ -62,3 +62,6 @@ For example, in regression settings, Stevens (1996), suggest that we should have
 * Stevens, J. (1996). Applied multivariate statistics for the social sciences. Lawrence Erlbaum Associates, Publishers.
 
 * Van Belle, G. (2011). Statistical rules of thumb. John Wiley & Sons.
+
+<span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a> <span>&nbsp;</span> 
+<span>&#128187;</span> <a href="https://anustatsupportonline.github.io/SSN-resources">Return to SSN Resources page</a>
