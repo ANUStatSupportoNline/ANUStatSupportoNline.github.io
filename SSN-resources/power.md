@@ -10,6 +10,13 @@ This fact sheet presents a discussion on what is the statistical power of a hypo
 - [Rules of thumb](#pow_rules_thum)
 - [References](#pow_ref)
 
+<div style="text-align: center;">
+  <img src="/assets/images/power.png" alt="power"
+             width = "450" 
+             height = "450">
+</div>
+
+
 ## <a class=anchor id=Power_hyp></a> Brief introduction to hypothesis testing
 
 Let us assume that we want to test whether or not some statement or proposed theory is true (or at least plausible) given the observed data. Usually, we do this via binary hypothesis testing, where we have a null hypothesis (<img src="https://render.githubusercontent.com/render/math?math=H_{0}">) and a competing alternative hypothesis (<img src="https://render.githubusercontent.com/render/math?math=H_{a}">). Note that our decision derived from the test could be correct or incorrect. 
