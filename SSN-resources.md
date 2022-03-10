@@ -26,7 +26,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
  <tr>
     <td>
         <ul>
-            <li><a href="https://nceph.anu.edu.au/research/groups/national-centre-geographic-resources-analysis-primary-health-care-graphc">National Centre for Geographic resources and Analysis in Primary Health Care</a>:<br> Facilitates the use of geographical information systems (GIS) to inform health research in Australia with a spatial dimension.</li><li><a href="https://cartogis.anu.edu.au/">CartoGIS Services</a>:<br> Are based in the ANU Library and offer cartographic services and GIS training.</li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/anu-spatial-res">ANU Resources</a></li>
         </ul>
     </td>
     <td>
