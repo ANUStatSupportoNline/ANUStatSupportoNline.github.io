@@ -4,8 +4,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
 
 <table style="border:0px solid black;margin-left:auto;margin-right:auto;">
  <tr>
-    <td><h2>Regression Models</h2></td>
-    <td><h2>Statistical Inference</h2></td>
+    <td><h2>Regression Models</h2></td><td><h2>Statistical Inference</h2></td>
  </tr>
  <tr>
     <td> 
@@ -20,8 +19,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
  </tr>
  <tr>
-    <td><h2>Spatial Statistics</h2></td>
-    <td><h2>Statistical Software</h2></td>
+    <td><h2>Spatial Statistics</h2></td><td><h2>Statistical Software</h2></td>
  </tr>
  <tr>
     <td>
@@ -37,12 +35,10 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
  </tr>
   <tr>
-    <td><h2>Survey Data</h2></td>
-    <td><h2>Experimental Design</h2></td>
+    <td><h2>Survey Data</h2></td><td><h2>Experimental Design</h2></td>
  </tr>
  <tr>
-  <td> </td>
-  <td> </td>
+  <td> </td><td> </td>
  </tr>
 </table>
 
