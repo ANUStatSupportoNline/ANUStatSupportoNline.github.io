@@ -2,15 +2,7 @@
 
 <table cellpadding="0" cellspacing="0" border="0">
  <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Alice.png" alt="Alice"
-             width = "170" 
-             height = "170"></td>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Anton.png" alt="Anton"
-             width = "170" 
-             height = "170"></td>
-  <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Bernard.png" alt="Bernard"
-             width = "170" 
-             height = "170"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Alice.png" alt="Alice" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Anton.png" alt="Anton" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Bernard.png" alt="Bernard" width = "170" height = "170"></td>
  </tr>
  <tr>
     <td style="text-align: center; vertical-align: middle;"><div><a href="https://services.anu.edu.au/business-units/dean-higher-degree-research/statistical-support-network/associate-professor-alice">Alice Richardson</a></div><div><small>Statistical Support Network</small></div><div><span style="white-space: nowrap">&#9993;<a href="alice.richardson@anu.edu.au"> <small>alice.richardson@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 2 6125 0562</small></span></div></td>
@@ -18,15 +10,7 @@
   <td style="text-align: center; vertical-align: middle;"><div><a href="https://demography.cass.anu.edu.au/people/dr-bernard-baffour">Bernard Baffour</a></div><div><small>School of Demography</small></div><div><span style="white-space: nowrap">&#9993;<a href="bernard.baffour@anu.edu.au"> <small>bernard.baffour@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222;<small> +61 2 6125 9030</small></span></div></td>
  </tr>
  <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Calre.png" alt="Clare"
-             width = "170" 
-             height = "170"></td>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Geoff.png" alt="Geoff"
-             width = "170" 
-             height = "170"></td>
-  <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Grace.png" alt="Grace"
-             width = "170" 
-             height = "170"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Calre.png" alt="Clare" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Geoff.png" alt="Geoff" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Grace.png" alt="Grace" width = "170" height = "170"></td>
  </tr>
  <tr>
   <td style="text-align: center; vertical-align: middle;"><div><a href="https://researchers.anu.edu.au/researchers/mcfadden-ch">Clare McFadden</a></div><div><small>School of Archaeology and Anthropology</small></div><div><span style="white-space: nowrap">&#9993;<a href="Clare.McFadden@anu.edu.au"> <small>Clare.McFadden@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 2 6125 5331</small></span></div></td>
@@ -34,15 +18,7 @@
     <td style="text-align: center; vertical-align: middle;"><div><a href="https://nceph.anu.edu.au/people/academics/associate-professor-grace-joshy">Grace Joshy</a></div><div><small>Centre for Public Health Data and Policy</small></div><div><span style="white-space: nowrap">&#9993;<a href="grace.joshy@anu.edu.au"> <small>grace.joshy@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 2 6125 0715</small></span></div></td>
  </tr>
  <tr>
-   <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Lillian.png" alt="Lillian"
-             width = "170" 
-             height = "170"></td>
-  <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Matthew.png" alt="Matthew"
-             width = "170" 
-             height = "170"></td>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Mike.png" alt="Mike"
-             width = "170" 
-             height = "170"></td>
+   <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Lillian.png" alt="Lillian" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Matthew.png" alt="Matthew" width = "170" height = "170"></td><td style="text-align: center; vertical-align: middle;"><img src="assets/images/Mike.png" alt="Mike" width = "170"  height = "170"></td>
  </tr>
  <tr>
   <td style="text-align: center; vertical-align: middle;"><div><a href="https://medicalschool.anu.edu.au/people/academic-staff/dr-lillian-smyth">
@@ -51,12 +27,8 @@ Lillian Smyth</a></div><div><small>ANU Medical School</small></div><div><span st
 Matthew Kerby</a></div><div><small>School of Politics & International Relations</small></div><div><span style="white-space: nowrap">&#9993;<a href="Matthew.Kerby@anu.edu.au"> <small>Matthew.Kerby@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 2 6125 1806</small></span></div></td>
     <td style="text-align: center; vertical-align: middle;"><div><a href="https://psychology.anu.edu.au/people/academics/prof-mike-smithson">Michael Smithson</a></div><div><small>Research School of Psychology</small></div><div><span style="white-space: nowrap">&#9993;<a href="michael.smithson@anu.edu.au"> <small>michael.smithson@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> 612 58356</small></span></div></td></tr>
 <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Sumon.png" alt="Sumon"
-             width = "170" 
-             height = "170"></td>
-  <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Yiyun.png" alt="Yiyun"
-             width = "170" 
-             height = "170"></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Sumon.png" alt="Sumon" width = "170" height = "170"></td>
+  <td style="text-align: center; vertical-align: middle;"><img src="assets/images/Yiyun.png" alt="Yiyun" width = "170" height = "170"></td>
  </tr>
  <tr>
    <td style="text-align: center; vertical-align: middle;"><div><a href="https://demography.cass.anu.edu.au/people/dr-sumonkanti-das">Sumonkanti Das</a></div><div><small>School of Demography</small></div><div><span style="white-space: nowrap">&#9993;<a href="sumonkanti.das@anu.edu.au"> <small>sumonkanti.das@anu.edu.au</small></a></span></div><div><span style="white-space: nowrap">&#128222; <small> +61 4 2268 1412</small></span></div></td>
