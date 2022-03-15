@@ -41,8 +41,8 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     <td><h2>Experimental Design</h2></td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
+  <td> </td>
+  <td> </td>
  </tr>
 </table>
 
