@@ -2,7 +2,7 @@
 
 These fact sheets provide a couple of pages of introduction to many of the common topics discussed in SSN consultations.   
 
-<table border="0">
+<table border="0" style="margin-left:auto;margin-right:auto;">
  <tr>
     <td><h2>Regression Models</h2></td>
     <td><h2>Statistical Inference</h2></td>
