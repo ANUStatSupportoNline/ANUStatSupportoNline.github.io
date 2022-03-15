@@ -43,7 +43,7 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
  </tr>
  <tr>
     <td><h2>Regression Models</h2></td>
-    <td><h2>Machine Learning</h2></td>
+    <td><h2>Machine/Statistical Learning</h2></td>
  </tr>
  <tr>
     <td> 
