@@ -36,6 +36,14 @@ These fact sheets provide a couple of pages of introduction to many of the commo
         </ul>
     </td>
  </tr>
+  <tr>
+    <td><h2>Survey Data</h2></td>
+    <td><h2>Experimental Design</h2></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+ </tr>
 </table>
 
 <span>&#127968;</span> <a href="https://anustatsupportonline.github.io/">Return to homepage</a>
