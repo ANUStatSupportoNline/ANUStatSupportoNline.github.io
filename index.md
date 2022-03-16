@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="/favicon.ico">
 # Statistical Support Online
 
 Welcome to the statistics support online web portal from the [ANU's Statistical Support Network](https://services.anu.edu.au/business-units/dean-higher-degree-research/statistical-support-network) (SSN).
