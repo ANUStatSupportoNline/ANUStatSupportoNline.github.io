@@ -23,6 +23,11 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
                      <li><small>STAT7029/STAT4029/STAT3012: Design of experiments and surveys</small></li>
                 </ul>
              </li>
+             <li>Joint Colleges of Science (CHM and CoS)
+                 <ul>
+                     <li><small>BIOL6202/BIOL2202: Experimental Design and Analysis in Biology</small></li>
+                </ul>
+             </li>
         </ul>
     </td>
     <td>
@@ -83,6 +88,11 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
                      <li><small>COMP8650/COMP4680: Advanced topics in Machine Learning</small></li>
                      <li><small>COMP8536: Advanced topics in deep learning for computer vision</small></li>
                      <li><small>COMP2710: Special topics in Computer Science</small></li>
+                </ul>
+             </li>
+             <li>Joint Colleges of Science (CHM and CoS)
+                 <ul>
+                     <li><small>BIOL6207/BIOL3207: Data Science for Biologists</small></li>
                 </ul>
              </li>
         </ul>
@@ -195,7 +205,6 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
                     <li><small>POPM8001: Research, treatment, policy: Current Issues in mental health</small></li>
                     <li><small>PSYC2009: Quantitative methods in psychology</small></li>
                     <li><small>PSYC3018: Advanced research methods</small></li>
-                    <li><small>PSYC8301: Clinical research</small></li>
                     <li><small>SCOM8019/SCOM4019: Research methods in the science communication</small></li>
                  </ul>
             </li>
