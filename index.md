@@ -1,6 +1,6 @@
-
-<link rel="shortcut icon" href="/assets/images/dists.png">
-
+ <head>
+    <link rel="shortcut icon" href="/assets/images/dists.png">
+  </head>
 
 # Statistical Support Online
 
