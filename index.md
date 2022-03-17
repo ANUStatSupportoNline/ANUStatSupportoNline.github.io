@@ -1,5 +1,5 @@
  <head>
-    <link rel="shortcut icon" href="assets/images/dists.png">
+    <link rel="shortcut icon" href="dists.png">
   </head>
 
 # Statistical Support Online
