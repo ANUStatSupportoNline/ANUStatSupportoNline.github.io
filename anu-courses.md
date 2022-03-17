@@ -26,6 +26,7 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
              <li>Joint Colleges of Science (CHM and CoS)
                  <ul>
                      <li><small>BIOL6202/BIOL2202: Experimental Design and Analysis in Biology</small></li>
+                     <li><small>ENVS6202/ENVS2002: Environmental Measurement, Modelling and Monitoring</small></li>
                 </ul>
              </li>
         </ul>
