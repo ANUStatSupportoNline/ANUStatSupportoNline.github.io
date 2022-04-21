@@ -207,7 +207,7 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
                     <li><small>POPM8001: Research, treatment, policy: Current Issues in mental health</small></li>
                     <li><small>PSYC2009: Quantitative methods in psychology</small></li>
                     <li><small>PSYC3018: Advanced research methods</small></li>
-                    <li><small>SCOM8019/SCOM4019: Research methods in the science communication</small></li>
+                    <li><small>SCOM8019/SCOM4019: Research methods in science communication</small></li>
                  </ul>
             </li>
         </ul>
