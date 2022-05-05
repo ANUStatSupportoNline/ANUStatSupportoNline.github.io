@@ -1,9 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-## Multiple imputation
+# Multiple imputation
 
 In this fact sheet, we are going to discuss what is multiple imputation and its importance in applied statistics.
 
