@@ -29,7 +29,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
     <td>
         <ul>
-            <li><a href="https://services.anu.edu.au/information-technology/software-systems/anaconda-python-distribution-ic">Anaconda Python distribution</a></li><li>
+            <li><a href="https://services.anu.edu.au/information-technology/software-systems/anaconda-python-distribution-ic">Python</a></li><li>
 <a href="https://services.anu.edu.au/information-technology/software-systems/genstat">GenStat</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/jasp">JASP</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/r">R</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/spss">SPSS</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/stata-ic">Stata</a></li>
         </ul>
     </td>
