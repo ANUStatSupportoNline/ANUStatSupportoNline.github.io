@@ -183,7 +183,7 @@ Additionally, ANU colleges also offer a wide variety of semester-long courses on
                     <li><small>POGO9097: Research design for public policy</small></li>
                     <li><small>POGO9098: Research analysis and statistics</small></li>
                     <li><small>REGN9076/REGN8001: Methods in interdisciplinary research</small></li>
-                    <li><small>REGN8021: Fundamentals of quantitative analysis for regulators</small</li>
+                    <li><small>REGN8021: Fundamentals of quantitative analysis for regulators</small></li>
                  </ul>
             </li>
             <li>CECS
