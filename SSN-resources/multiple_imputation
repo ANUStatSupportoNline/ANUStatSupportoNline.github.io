@@ -42,7 +42,7 @@ CRAN maintains a [task view on multiple imputation](https://cran.r-project.org/w
 
 ### <a class=anchor id=LR_in_stata></a> Implementation in Stata
 
-In order to implement multiple imputation in Stata, we can follow the guide called [Multiple imputation in Stata](https://stats.oarc.ucla.edu/stata/seminars/mi_in_stata_pt1_new/), developed by the IDRE from UCLA. 
+In order to implement multiple imputation in Stata, we can follow the guide called [Multiple imputation in Stata](https://stats.oarc.ucla.edu/stata/seminars/mi_in_stata_pt1_new/), developed by UCLA. 
 
 ## <a class=anchor id=LR_ref></a> References
 
