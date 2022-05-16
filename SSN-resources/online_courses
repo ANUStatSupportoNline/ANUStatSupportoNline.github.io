@@ -6,7 +6,7 @@ In this fact sheet, we are going to discuss good quality online courses in appli
 
 - [Semester courses, written content](#semester_written)
 - [Long courses, video content](#semester_video)
-- [Analysis of multiply imputed data sets](#Analysis)
+- [Short resources, video content](#short_video)
 - [Software focused](#courses_software)
     - [Implementation in R](#courses_r)
     - [Implementation in Stata](#courses_stata)
@@ -15,18 +15,23 @@ In this fact sheet, we are going to discuss good quality online courses in appli
 ## <a class=anchor id=semester_written></a> Semester courses, written content
 
 [Introduction to probability theory](https://online.stat.psu.edu/stat414/). Provided by Penn State University.
-
 [Regression methods](https://online.stat.psu.edu/stat501/). Provided by Penn State University.
-
 [Applied multivariate statistical analysis](https://online.stat.psu.edu/stat505/). Provided by Penn State University.
-
 [Epidemiological research methods](https://online.stat.psu.edu/stat507/). Provided by Penn State University.
-
 [Applied regression analysis](https://online.stat.psu.edu/stat462/). Provided by Penn State University. The production values are not as high for this course.
+[OpenIntro Stats](https://www.openintro.org/book/os/). An online textbook with a learning community - parts of it look to be free but there may be a fee involved.
+[CAST](https://cast.idems.international/). Provided by Massey University, New Zealand, this resource is used in the SSN online courses but it has not been updated since 2019.
 
 ## <a class=anchor id=semester_video></a> Long courses, video content
 
-[Crash course statistics] (https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr). AA seres of 45 10 minite videos on Youtube.
+[Crash course statistics] (https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr). A series of 45 10 minute Youtube videos.
+[StatQuest](https://www.youtube.com/user/joshstarmer). Sets of 10 - 30 minute Youtube videos grouped around key statistical topics.
+[Statistical rethinking](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/videos). A semester of video lectures delivered by Richard McElreath, who wrote the book "Statistical Rethinking" (available at ANU library in hard copy and electronic).
+[Wild about Statistics](https://www.youtube.com/c/WildAboutStatistics?app=desktop). A full semester of videos for first year undergraduates delivered by Chris Wild.
+
+##<a class=anchor id=short_video></a> Short resources, video content
+
+[Statistics Learning Centre](https://www.youtube.com/watch?v=8S5lQWTpujI). videos on introductory statistics content aimed more at high school students. Much of this devloper's material has gone behind a paywall but ou may still stumble across individual videos. 
 
 ## <a class=anchor id=courses_software></a> Courses focused more on software
 
@@ -34,9 +39,10 @@ In this section, we are going to present good quality resources focused on stati
 
 ### <a class=anchor id=course_r></a> Courses on R
 
-Text goes here.
+There are a huge number of R resources, and this list focuses on the ones that look like courses or encyclopedia material rather than textbooks.
+[Statmethods](http://www.statmethods.net/). 
 
-### <a class=anchor id=stata></a> Coures on Stata
+### <a class=anchor id=stata></a> Courses on Stata
 
 Text goes here.
 
