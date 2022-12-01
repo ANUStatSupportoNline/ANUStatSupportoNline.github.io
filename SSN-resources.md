@@ -59,7 +59,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
   <tr>
     <td>
         <ul>
-            <li><a href="https://anustatsupportonline.github.io/SSN-resources/online_courses">Online courses</a></li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/online_courses_fact_sheet">Online courses</a></li>
         </ul>
     </td>
     <td>
