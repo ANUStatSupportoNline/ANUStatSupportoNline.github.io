@@ -37,6 +37,37 @@ These fact sheets provide a couple of pages of introduction to many of the commo
   <tr>
     <td><h2>Survey Data</h2></td><td><h2>Experimental Design</h2></td>
  </tr>
+  <tr>
+    <td><h2>Space and Time</h2></td><td><h2>Statistical Software</h2></td>
+ </tr>
+ <tr>
+    <td>
+        <ul>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/anu-spatial-res">Spatial analysis</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="https://services.anu.edu.au/information-technology/software-systems/anaconda-python-distribution-ic">Python</a></li><li>
+<a href="https://services.anu.edu.au/information-technology/software-systems/genstat">GenStat</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/jasp">JASP</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/r">R</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/spss">SPSS</a></li><li><a href="https://services.anu.edu.au/information-technology/software-systems/stata-ic">Stata</a></li>
+        </ul>
+    </td>
+ </tr>
+  <tr>
+    <td><h2>Collections</h2></td><td><h2>Blank</h2></td>
+ </tr>
+  <tr>
+    <td>
+        <ul>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/online_cources">Online courses</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li></li>
+        </ul>
+    </td>
+ </tr>
  <tr>
   <td> </td><td> </td>
  </tr>
