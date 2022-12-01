@@ -14,7 +14,7 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
     <td>
         <ul>
-            <li><a href="https://anustatsupportonline.github.io/SSN-resources/power">Power</a></li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/meta_analysis">Meta analysis</a></li> <li><a href="https://anustatsupportonline.github.io/SSN-resources/power">Power</a></li>
         </ul>
     </td>
  </tr>
