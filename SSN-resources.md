@@ -19,12 +19,12 @@ These fact sheets provide a couple of pages of introduction to many of the commo
     </td>
  </tr>
  <tr>
-    <td><h2>Spatial Statistics</h2></td><td><h2>Statistical Software</h2></td>
+    <td><h2>Space and Time</h2></td><td><h2>Statistical Software</h2></td>
  </tr>
  <tr>
     <td>
         <ul>
-            <li><a href="https://anustatsupportonline.github.io/SSN-resources/anu-spatial-res">ANU Resources</a></li>
+            <li><a href="https://anustatsupportonline.github.io/SSN-resources/anu-spatial-res">Spatial analysis</a></li>
         </ul>
     </td>
     <td>
