@@ -23,9 +23,7 @@ And then for the brave, the formula behind their online calculator is revealed.
 *** image goes here
 
 <div style="text-align: center;">
-  <img src="/assets/images/lin_reg_plot.png" alt="Lin_reg"
-             width = "450" 
-             height = "450">
+  <img src="/assets/images/Qualtrics sample size formula.png" alt="Lin_reg">
 </div>
  
 Z is defined in the usual way, and would be 1.96 for a 95% confidence interval.
