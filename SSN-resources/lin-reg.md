@@ -43,9 +43,11 @@ Linear regression is a **model**. Such model is a function that maps from a set 
 
 <img src="https://render.githubusercontent.com/render/math?math=y=f(\mathbf{x})=\mathbf{x}'\boldsymbol{\beta}"> + <img src="https://render.githubusercontent.com/render/math?math=\varepsilon,">
 
+$$y=f(\mathbf{x})=\mathbf{x}\boldsymbol{\beta}+\varepsilon,$$
+
 where <img src="https://render.githubusercontent.com/render/math?math=y"> is the response variable, the vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> is our set of covariates, the vector <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> is our set of learnable parameters, and <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> is an error term assumed to be normally distributed with mean zero and unknown variance <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">. The term <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}'\boldsymbol{\beta}"> is known as the linear predictor.
 
-On the other hand, the **estimation approach** is the algorithm used to learn the unknown parameters, namely <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> and <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">. Note that the model and the estimation approach are two different things. Popular estimation approaches to learn the unknown parameters in a linear regression model are: Ordinary least squares (OLS), Maximum likelihood estimation (MLE), Penalized least squares including ridge regression and the Lasso, among others.   
+On the other hand, the **estimation approach** is the algorithm used to learn the unknown parameters, namely <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\beta}"> $\boldsymbol{\beta}$ and <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">. Note that the model and the estimation approach are two different things. Popular estimation approaches to learn the unknown parameters in a linear regression model are: Ordinary least squares (OLS), Maximum likelihood estimation (MLE), Penalized least squares including ridge regression and the Lasso, among others.   
 
 ## <a class=anchor id=LR_residuals></a> The residuals
 
