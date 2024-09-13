@@ -20,8 +20,6 @@ Agree with everything up to “spread out”. The kind of graph is not specified
 
 And then for the brave, the formula behind their online calculator is revealed.
 
-*** image goes here
-
 <div style="text-align: center;">
   <img src="/assets/images/Qualtrics sample size formula.png" alt="Lin_reg">
 </div>
