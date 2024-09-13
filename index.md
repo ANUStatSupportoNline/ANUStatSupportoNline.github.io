@@ -14,4 +14,4 @@ Statistical Support Online is an online store of information, advice and contact
 + <span>&#128483;</span> <a href="https://anustatsupportonline.github.io/drop-in-sessions">Drop-in-sessions</a>
 + <span>&#127891;</span> <a href="https://anustatsupportonline.github.io/bootcamps">Bootcamps</a>
 + <span>&#128176;</span> <a href="https://anustatsupportonline.github.io/grant-support">Grant support</a>
-
++ <span>&#128236;</span> <a href="https://anustatsupportonline.github.io/news">News</a>
